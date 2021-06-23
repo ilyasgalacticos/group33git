@@ -63,6 +63,14 @@ public class MainClient {
 
                     }
 
+                }else if(choice.equals("3")){
+
+                    System.exit(0);
+
+                }else {
+
+                    System.out.println("INCORRECT COMMAND");
+
                 }
 
             }
